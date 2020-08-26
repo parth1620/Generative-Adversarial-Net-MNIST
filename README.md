@@ -6,13 +6,13 @@ Generative Adversarial Network are generative models. There are two networks, Ge
 
 GANs were [first reported on](https://arxiv.org/abs/1406.2661) in 2014 from Ian Goodfellow and others in Yoshua Bengio's lab.
 
-![](https://github.com/parth1620/Generative-Adversarial-Network/blob/master/images/GAN%20MNIST.png)
+![](https://github.com/parth1620/Generative-Adversarial-Net-MNIST/blob/master/images/GAN%20MNIST.png)
 
 ### Results
 
-![](https://github.com/parth1620/Generative-Adversarial-Network/blob/master/images/GAN.jpg)
+![](https://github.com/parth1620/Generative-Adversarial-Net-MNIST/blob/master/images/GAN.jpg)
 
-![](https://github.com/parth1620/Generative-Adversarial-Network/blob/master/images/overall%20result%20gan.png)
+![](https://github.com/parth1620/Generative-Adversarial-Net-MNIST/blob/master/images/overall%20result%20gan.png)
 
 
 
@@ -24,10 +24,10 @@ GAN using convolutional layers in the generator and discriminator. This is calle
 
 Here I have used DCGAN architecture on MNIST Handwritten dataset.
 
-![](https://github.com/parth1620/Generative-Adversarial-Network/blob/master/images/DCGAN%20MNIST.png)
+![](https://github.com/parth1620/Generative-Adversarial-Net-MNIST/blob/master/images/DCGAN%20MNIST.png)
 
 ### Results
 
-![](https://github.com/parth1620/Generative-Adversarial-Network/blob/master/images/DCGAN.jpg)
+![](https://github.com/parth1620/Generative-Adversarial-Net-MNIST/blob/master/images/DCGAN.jpg)
 
-![](https://github.com/parth1620/Generative-Adversarial-Network/blob/master/images/overall%20result%20dcgan.png)
+![](https://github.com/parth1620/Generative-Adversarial-Net-MNIST/blob/master/images/overall%20result%20dcgan.png)
